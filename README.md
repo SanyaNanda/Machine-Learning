@@ -17,7 +17,7 @@
 
 In depth linear regression [Linear Regression]
 
-#### Project 2: *Portfolio Returns & Risk Analysis Dashboard*
+#### Project 2: *Portfolio Returns & Risk Analysis Dashboard* [portfolio_return_risk_analysis.ipynb](portfolio_return_risk_analysis.ipynb)
 
 * Load multiple stock tickers
 * Calculate daily returns, rolling volatility, Sharpe ratio
