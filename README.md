@@ -31,12 +31,13 @@ In depth linear regression [Linear Regression]
 
 #### Concepts:
 
+* Candlesticks theory  [candlesticks.ipynb](candlesticks.ipynb)
 * Stationarity, mean reversion
 * Technical indicators: RSI, MACD, Bollinger Bands
 * ML models: Decision Trees, Random Forests, XGBoost
 * Backtesting basics
 
-#### Project 3: *Mean Reversion Strategy Using Bollinger Bands*
+#### Project 3: *Mean Reversion Strategy Using Bollinger Bands* [mean_reversion_strategy.ipynb](mean_reversion_strategy.ipynb)
 
 * Build trading signals using price deviation
 * Backtest strategy returns vs. buy & hold
